@@ -2,10 +2,9 @@
 
 ### 👨‍💻 About Me
 
-I'm a B.Tech Computer Science student at **PSIT, Kanpur**, with a passion for building creative solutions at the intersection of data, design, and development. I love diving into datasets to create insightful dashboards and have a keen eye for UI/UX and graphic design.
+A dedicated Computer Science student at PSIT, Kanpur, with a strong focus on data analysis, software development, and UI/UX design. My project experience demonstrates my ability to manage the development lifecycle, from data processing to creating a polished user interface. Currently deepening my knowledge of Generative AI, I am seeking opportunities to apply my skills to help build data-driven, user-friendly products in a professional setting.
 
 - 🌱 I’m currently exploring the world of **Generative AI** and its applications.
-- 🔭 I’m focused on building my latest project, **JURIS AI**.
 - 💬 Ask me about **Data Analysis, Python, or UI/UX Design**.
 
 ---
@@ -15,7 +14,7 @@ I'm a B.Tech Computer Science student at **PSIT, Kanpur**, with a passion for bu
 #### Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,powerbi,excel,wasm" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,vscode,replit,eclipse,notion,ps,wasm" />
   </a>
 </p>
 
@@ -25,26 +24,25 @@ I'm a B.Tech Computer Science student at **PSIT, Kanpur**, with a passion for bu
   <img src="https://img.shields.io/badge/Generative_AI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
 </p>
 
+
+#### Language Use
 <p align="left">
   <a href="https://github.com/im-shobhit">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shobhit&layout=compact&langs_count=8&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=im-shobhit&layout=compact&langs_count=8&theme=default"/>
   </a>
 </p>
 
 ---
 
-### ✨ My Featured Projects
-
-Here are a few projects I'm proud of. You can find more on my repositories tab!
-
-| Project Name | Description | Link |
-|--------------|-------------|------|
-| **Sales Insights Data Analysis** | An end-to-end data analysis project using SQL and Power BI to uncover sales trends and create interactive dashboards. | [Go to Repo](https://github.com/im-shobhit/Sales-Insights-Data-Analysis) |
-| **Data Processing Assistant** | An AI-powered web application designed to help users clean, process, and prepare datasets for analysis. | [Go to Repo](https://github.com/im-shobhit/Data-Processing-Assistant) |
-| **Invoice Generator** | A streamlined web tool for creating, customising, and downloading professional invoices quickly and easily. | [Go to Repo](https://github.com/im-shobhit/Invoice-Generator) |
-| **Snake Game** | A classic implementation of the popular Snake game, built from scratch using Python. | [Go to Repo](https://github.com/im-shobhit/Snake-Game) |
+### Github Status
+<p align="left">
+  <a href="https://github.com/im-shobhit">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=im-shobhit&count_private=true&show_icons=true&theme=default&hide_rank=false"/>
+  </a>
+</p>
 
 ---
+
 
 ### 📫 Let's Connect!
 
@@ -61,3 +59,5 @@ You can find me on:
     <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
   </a>
 </p>
+
+---
