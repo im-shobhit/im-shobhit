@@ -14,7 +14,7 @@ A dedicated Computer Science student at PSIT, Kanpur, with a strong focus on dat
 #### Languages & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,git,vscode,replit,eclipse,notion,ps,wasm" />
+    <img src="https://skillicons.dev/icons?i=python,java,html,css,js,figma,git,vscode,replit,eclipse,notion,ps,wasm" />
   </a>
 </p>
 
