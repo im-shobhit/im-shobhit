@@ -1,5 +1,6 @@
 # Hi there, I'm Shobhit Rawat 👋
 
+
 ### 👨‍💻 About Me
 
 I'm a B.Tech Computer Science student at **PSIT, Kanpur**, with a passion for building creative solutions at the intersection of data, design, and development. I love diving into datasets to create insightful dashboards and have a keen eye for UI/UX and graphic design.
@@ -55,9 +56,9 @@ You can find me on:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shobhit-rawat-61752635b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/__worst_personality__/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
 </p>
