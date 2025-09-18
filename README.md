@@ -61,4 +61,6 @@ You can find me on:
   <a href="https://www.instagram.com/__worst_personality__/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
   </a>
+  <a href="ishobhitrawat.com" target="_blank"> <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
+  </a>
 </p>
