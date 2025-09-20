@@ -1,8 +1,15 @@
-# Hi there, I'm Shobhit Rawat 👋
+<div align="center">
+
+# 🚀 Hi, I'm *Shobhit Rawat*
+
+### A passionate human being crafting digital experiences...
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="GitHub Banner" width="100%">
+</div>
+
 
 ### 👨‍💻 About Me
 
-A dedicated Computer Science student at PSIT, Kanpur, with a strong focus on data analysis, software development, and UI/UX design. My project experience demonstrates my ability to manage the development lifecycle, from data processing to creating a polished user interface. Currently deepening my knowledge of Generative AI, I am seeking opportunities to apply my skills to help build data-driven, user-friendly products in a professional setting.
+A dedicated Computer Science student with a strong focus on data analysis, software development, and UI/UX design. My project experience demonstrates my ability to manage the development lifecycle, from data processing to creating a polished user interface. Currently deepening my knowledge of Generative AI, I am seeking opportunities to apply my skills to help build data-driven, user-friendly products in a professional setting.
 
 - 🌱 I’m currently exploring the world of **Generative AI** and its applications.
 - 💬 Ask me about **Data Analysis, Python, or UI/UX Design**.
