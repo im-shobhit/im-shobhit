@@ -3,7 +3,7 @@
 # 🚀 Hi, I'm *Shobhit Rawat*
 
 ### A passionate human being crafting digital experiences...
-<img src="https://raw.githubusercontent.com/im-shobhit/im-shobhit/main/Completing%20tasks%20while%20hearing%20music.gif" alt="Completing tasks while hearing music" width="100%">
+<img src="https://github.com/im-shobhit/im-shobhit/blob/main/Completing%20tasks%20while%20hearing%20music.gif" alt="Completing tasks while hearing music" width="100%">
 </div>
 
 
